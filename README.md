@@ -1,8 +1,8 @@
-# Http server
+## Http server
 
 * http://caddyserver.com  (caddyserver)
 
-# Web framework
+## Web framework
 
 * http://beego.me (beego full stack)
 * https://gin-gonic.github.io/gin/ (lightweight framework)
@@ -10,15 +10,15 @@
 * http://www.gorillatoolkit.org/ (toolkit)
 * http://getqor.com (sdk for e-commerce & cms development)
 
-# Cms
+## Cms
 
 * https://gohugo.io/ (static file generator)
 
-# Orm
+## Orm
 
 * http://jinzhu.me/gorm/
 
-# Ressources
+## Ressources
 
 * https://theplant.jp/en/open-source
 * http://openmymind.net/assets/go/go.pdf (the little go book)
