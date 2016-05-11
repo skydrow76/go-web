@@ -24,4 +24,5 @@
 * http://openmymind.net/assets/go/go.pdf (the little go book)
 * http://www.sitepoint.com/go-building-web-applications-beego/ (beego tutorial)
 * https://www.udemy.com/learn-how-to-code/ (go paid video tutorial)
+* https://forum.golangbridge.org (community forum)
 
