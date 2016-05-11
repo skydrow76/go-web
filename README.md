@@ -7,6 +7,8 @@
 * http://beego.me (beego full stack)
 * https://gin-gonic.github.io/gin/ (lightweight framework)
 * https://labstack.com/echo (lightweight framework)
+* http://ivpusic.github.io/neo/ (lightweight framework)
+* https://go-macaron.com/ (lightweight framework)
 * http://www.gorillatoolkit.org/ (toolkit)
 * http://getqor.com (sdk for e-commerce & cms development)
 
