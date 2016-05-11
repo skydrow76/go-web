@@ -16,3 +16,7 @@
 
 * http://jinzhu.me/gorm/
 
+# Ressources
+
+* https://theplant.jp/en/open-source
+
