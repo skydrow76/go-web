@@ -8,6 +8,11 @@
 * https://gin-gonic.github.io/gin/ (gin lightweight framework)
 * http://getqor.com (sdk for e-commerce & cms development)
 
+# Cms
+
+* https://gohugo.io/ (static file generator)
+
 # Orm
 
 * http://jinzhu.me/gorm/
+
