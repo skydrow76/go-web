@@ -13,6 +13,7 @@
 ## Cms
 
 * https://gohugo.io/ (static file generator)
+* https://gogs.io/ (github like)
 
 ## Orm
 
