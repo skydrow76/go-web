@@ -9,6 +9,7 @@
 * http://ivpusic.github.io/neo/ (lightweight framework)
 * https://go-macaron.com/ (lightweight framework)
 * https://github.com/dinever/golf (The Golf web framework)
+* https://github.com/NYTimes/gizmo (A Microservice Toolkit from The New York Times)
 * https://github.com/goadesign/goa (Design-based microservices in Go)
 * http://www.gorillatoolkit.org/ (toolkit)
 * http://getqor.com (sdk for e-commerce & cms development)
